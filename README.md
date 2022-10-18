@@ -1,7 +1,5 @@
 # INFOIDEIAS_TESTE
 
-# INFOIDEIAS_TESTE
-
 ## Run this project steps
 
 1. Clone this repository: `git clone https://github.com/Canhassi12/INFOIDEIAS_TESTE.git` ;
